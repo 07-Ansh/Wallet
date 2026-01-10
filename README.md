@@ -29,9 +29,9 @@ A comprehensive personal finance and debt management application. Securely track
 
 ## 📱 Screenshots
 
-| Dashboard | Add Transaction | Debts |
+| Wallet | Debts | Settings |
 |:---:|:---:|:---:|
-| *(Add screenshot here)* | *(Add screenshot here)* | *(Add screenshot here)* |
+| <img src="assets/1.jpeg" width="300" /> | <img src="assets/2.jpeg" width="300" /> | <img src="assets/3.jpeg" width="300" /> |
 
 ## 📄 License
 
