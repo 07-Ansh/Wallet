@@ -16,6 +16,7 @@ A comprehensive personal finance and debt management application. Securely track
 ### 🤝 Debt Manager
 - **People-Centric**: Organize debts by person. Import contacts directly from your phone.
 - **Lent & Borrowed**: Clearly see `Who owes you` vs `Who you owe`.
+- **Smart Notifications**: Send personalized details and due dates via **WhatsApp** or **SMS** with one tap.
 - **Two-Way Sync**: Adding a Debt automatically creates a corresponding Wallet transaction.
 
 ### ☁️ Secure Cloud Backup
