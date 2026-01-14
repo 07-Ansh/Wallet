@@ -1,4 +1,4 @@
-# 💰 Wallet & Expenses
+# Wallet & Expenses
 
 > A comprehensive personal finance and debt management application built with Flutter. Track your income, expenses, and personal debts with robust offline capabilities and automatic cloud synchronization.
 
@@ -11,28 +11,6 @@
 ## 📥 Download
 
 **[Get the Latest Release (APK)](https://github.com/07-Ansh/Wallet/releases/latest)**
-
----
-
-## 📸 Graphics
-
- <img src="assets/graphics.jpeg" /> 
-
-
----
-
-## 📋 Table of Contents
-
-- [Features](#-features)
-- [Graphics](#-graphics)
-- [Architecture](#-architecture)
-- [Tech Stack](#️-tech-stack)
-- [Platform Support](#-platform-support)
-- [Security](#-security)
-- [Contributing](#-contributing)
-- [License](#-license)
-
----
 
 ## 🚀 Features
 
