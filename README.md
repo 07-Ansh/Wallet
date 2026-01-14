@@ -12,6 +12,14 @@
 
 **[Get the Latest Release (APK)](https://github.com/07-Ansh/Wallet/releases/latest)**
 
+---
+
+## 📸 Graphics
+
+<img src="assets/graphics.jpeg" />
+
+---
+
 ## 🚀 Features
 
 ### 💰 **Wallet Management**
