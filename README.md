@@ -1,3 +1,4 @@
+
 # Wallet & Expenses
 
 A comprehensive personal finance and debt management application. Securely track your income, expenses, and personal debts with robust offline capabilities and automatic cloud synchronization.
@@ -5,6 +6,9 @@ A comprehensive personal finance and debt management application. Securely track
 ## 📥 Download
 
 **[Get the Latest Release (APK)](https://github.com/07-Ansh/Wallet/releases/latest)**
+
+![Graphics-desktop](https://github.com/user-attachments/assets/8971552b-75f8-4e6f-96d8-bee87d8e4afa)
+
 
 ## 🚀 Features
 
