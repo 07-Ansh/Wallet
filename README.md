@@ -16,7 +16,7 @@
 
 ## 📸 Graphics
 
-<img src="assets/graphics.jpeg" />
+<img src="assets/Graphics.jpeg" />
 
 ---
 
