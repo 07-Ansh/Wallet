@@ -1,5 +1,7 @@
 # Wallet & Expenses
 
+<img src="assets/Graphics.jpeg" />
+
 > A comprehensive personal finance and debt management application built with Flutter. Track your income, expenses, and personal debts with robust offline capabilities and automatic cloud synchronization.
 
 [![Flutter](https://img.shields.io/badge/Flutter-3.10%2B-blue.svg)](https://flutter.dev)
@@ -11,12 +13,6 @@
 ## 📥 Download
 
 **[Get the Latest Release (APK)](https://github.com/07-Ansh/Wallet/releases/latest)**
-
----
-
-## 📸 Graphics
-
-<img src="assets/Graphics.jpeg" />
 
 ---
 
